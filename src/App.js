@@ -5,7 +5,8 @@ import ProfileList from "./components/profile/ProfileList";
 function App() {
   return (
     <div>
-        <ProfileList />
+      <ProfileList />
+     
     </div>
   );
 }
